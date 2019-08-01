@@ -1,3 +1,4 @@
+## Customize
 ---
 home: true
 heroImage: /logo-nsvue.png
